@@ -168,7 +168,6 @@ webpages/
 *media*
 media*
 email*.txt
-*.txt
 *.jpg
 secret_settings.py
 tmp*
